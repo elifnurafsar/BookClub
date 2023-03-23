@@ -1,0 +1,6 @@
+[submodule "BookClubSpringBootBackEnd"]
+	path = BookClubSpringBootBackEnd
+	url = https://github.com/elifnurafsar/BookClubSpringBootBackEnd.git
+[submodule "BookClubReactFrontEnd"]
+	path = BookClubReactFrontEnd
+	url = https://github.com/elifnurafsar/BookClubReactFrontEnd.git
