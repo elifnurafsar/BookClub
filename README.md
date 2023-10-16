@@ -2,6 +2,9 @@
 
 Full Stack e-commerce web application created using Spring Boot and React
 
+> **Warning**
+> This project does not support new version of Spring framework. You can check the https://github.com/elifnurafsar/AutoPartsApp_Backend.git project instead.
+
 > **Note**
 > You might look at the front-end and back-end repositories to see more example photos and videos from the application.
 
